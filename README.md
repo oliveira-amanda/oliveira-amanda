@@ -1,8 +1,5 @@
 ### Olá 👋
 
-<!--
-**oliveira-amanda/oliveira-amanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Eu sou a Amanda Oliveira, trabalho com desenvolvimento front end e atualmente tenho interesse nas tecnologias como o ReactJS, React Native, NodeJS. Estudo diarimente, resolvendo problemas visando constante evolução e assim construir melhores aplicações. 
 
 - 🎓 Ciência da Computação - Universidade Federal do Pampa
