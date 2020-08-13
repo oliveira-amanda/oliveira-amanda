@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Eu sou a Amanda Oliveira, trabalho com desenvolvimento front end e atualmente tenho interesse nas tecnologias ReactJS, React Native e NodeJS. Estudo diariamente, resolvendo diferentes problemas e aprendendo novas tecnologias.
+Eu sou a Amanda Oliveira, trabalho com desenvolvimento front end e atualmente tenho interesse nas tecnologias ReactJS, React Native e NodeJS.
 
 - 🎓 Ciência da Computação - Universidade Federal do Pampa
 - 📚 Desenvolvimento Full Stack - Rocketseat
